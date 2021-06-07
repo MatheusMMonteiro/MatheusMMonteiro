@@ -1,6 +1,17 @@
-### Hi there 👋
+### Hey! Welcome to my profile! 👋 😉
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/matheus-monteiro-41b54a181/)
+My name is Matheus Monteiro. I'm study Computer Technician at Senac Lapa Tito.
+
+- 🌱 I’m currently learning Mobile Development(.Net)
+- 💻  C#, Python, CSS3, MySql
+- 💬  Ask me about ...
+
+<a href="https://www.linkedin.com/in/matheus-monteiro-41b54a181/">
+  <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/"/>
+</a>
+<a href="mailto:matheus.malmeida7@gmail.com">
+  <img align="right" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
+</a>
 <!--
 **MatheusMMonteiro/MatheusMMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
