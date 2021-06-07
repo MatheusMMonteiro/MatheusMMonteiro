@@ -2,9 +2,10 @@
 
 My name is Matheus Monteiro. I'm study Computer Technician at Senac Lapa Tito.
 
+-  ⚡ From São Paulo - SP 🇧🇷
 - 🌱 I’m currently learning Mobile Development(.Net)
-- 💻  C#, Python, CSS3, MySql
-- 💬  Ask me about ...
+- 💻 C#, Python, CSS3, MySql
+- 💬 Ask me about ...
 
 <a href="https://www.linkedin.com/in/matheus-monteiro-41b54a181/">
   <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/"/>
