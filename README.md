@@ -1,9 +1,9 @@
-### Hey! Welcome to my profile! 👋 😉
+### Olá! Bem vindos! 👋 😉
 
-My name is Matheus Monteiro. I'm studying Computer Technician at Senac Lapa Tito.
+Meu nome é Matheus. Estudo Técnico em Informática no Senac Lapa Tito.
 
--  ⚡ From São Paulo - SP 🇧🇷
-- 🌱 I’m currently learning Mobile Development(.Net)
+-  ⚡ De São Paulo - SP 🇧🇷
+- 🌱 Atualmente, estou aprendendo Desenvolvimento Desktop(.Net)
 - 💻 C#, Python, CSS3, MySql
 - 💬 Ask me about ...
 
