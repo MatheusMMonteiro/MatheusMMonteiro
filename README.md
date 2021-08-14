@@ -3,8 +3,8 @@
 Meu nome é Matheus. Estudo Técnico em Informática no Senac Lapa Tito.
 
 -  ⚡ De São Paulo - SP 🇧🇷
-- 🌱 Atualmente, estou aprendendo Desenvolvimento Desktop(.Net)
-- 💻 C#, Python, CSS3, SQL Server
+- 🌱 Atualmente, estou aprendendo Desenvolvimento Web(Back-End)
+- 💻 C#, Python, CSS3(Bootstrap), SQL Server, MySQL, PHP(Laravel)
 - 💬 Ask me about ...
 
 <a href="https://www.linkedin.com/in/matheus-monteiro-41b54a181/">
