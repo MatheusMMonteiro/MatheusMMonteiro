@@ -1,6 +1,6 @@
 ### Olá! Bem vindos! 👋 😉
 
-Meu nome é Matheus. Estudo Técnico em Informática no Senac Lapa Tito.
+Meu nome é Matheus. Estudando Técnico em Informática no Senac Lapa Tito e FullStack Java Júnior na Generation Brasil.
 
 -  ⚡ De São Paulo - SP 🇧🇷
 - 🌱 Atualmente, estou aprendendo Desenvolvimento Web(Back-End)
