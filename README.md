@@ -9,8 +9,6 @@ Meu nome é Matheus. Estudando Técnico em Informática no Senac Lapa Tito e Ful
 - 💬 Ask me about ...
 
 
-💼 Ferramentas: VSCode, Figma, Trello, Vercel, GitHub. 
-
 <a href="https://www.linkedin.com/in/matheus-monteiro-41b54a181/">
   <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/"/>
 </a>
