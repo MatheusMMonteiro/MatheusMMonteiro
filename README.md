@@ -13,7 +13,7 @@ Meu nome é Matheus. Estudando Técnico em Informática no Senac Lapa Tito e Ful
   <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/"/>
 </a>
 <a href="mailto:matheus.malmeida7@gmail.com">
-  <img align="right" alt="E-mail" src="https://img.shields.io/badge/badge-Fale%20comigo!-brightgreen"/>
+  <img align="right" alt="E-mail" src="https://img.shields.io/badge/-Fale%20comigo!-brightgreen"/>
 </a>
 <!--
 **MatheusMMonteiro/MatheusMMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
