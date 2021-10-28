@@ -5,7 +5,7 @@ Meu nome é Matheus. Estudando Técnico em Informática no Senac Lapa Tito e Boo
 -  ⚡ De São Paulo - SP 🇧🇷
 - 🌱 Atualmente, estou aprendendo Desenvolvimento Web(Back-End)
 - 💻 Habilidades: C#, Python, CSS3, SQL Server, MySQL, PHP
-- 💼 Ferramentas: VSCode, GitHub, Bootstrap, Laravel, MySQL Workbench
+- 💼 Ferramentas: VSCode, GitHub, Bootstrap, MySQL Workbench
 - 💬 Ask me about ...
 
 
