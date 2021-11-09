@@ -1,12 +1,12 @@
 ### Olá! Bem vindos! 👋 😉
 
-Meu nome é Matheus. formado como Técnico em Informática no Senac Lapa Tito e estudando Bootcamp FullStack Java Júnior na Generation Brasil.
+Meu nome é Matheus. Formado como Técnico em Informática no Senac Lapa Tito e estudando Bootcamp FullStack Java Júnior na Generation Brasil.
 
 -  ⚡ De São Paulo - SP 🇧🇷
-- 🌱 Atualmente, estou aprendendo Desenvolvimento Web(Back-End)
-- 💻 Habilidades: C#, Python, CSS3, SQL Server, MySQL, PHP
-- 💼 Ferramentas: VSCode, GitHub, Bootstrap, MySQL Workbench
-- 💬 Ask me about ...
+- 🌱 Atualmente, estou aprendendo Desenvolvimento Web(FullStack)
+- 💻 Habilidades: C#, Python, CSS3, SQL Server, MySQL, PHP, TypeScript, Java
+- 💼 Ferramentas: Angular, Spring Boot, VSCode, Git, Bootstrap, MySQL Workbench
+- 💬 Pergunte-me mais ...
 
 
 <a href="https://www.linkedin.com/in/matheus-monteiro-41b54a181/">
