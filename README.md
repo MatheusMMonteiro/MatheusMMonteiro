@@ -1,6 +1,6 @@
 ### Olá! Bem vindos! 👋 😉
 
-Meu nome é Matheus. Formado como Técnico em Informática no Senac Lapa Tito e estudando Bootcamp FullStack Java Júnior na Generation Brasil.
+Meu nome é Matheus. Formado como Técnico em Informática no Senac Lapa Tito e Bootcamp FullStack Java Júnior na Generation Brasil.
 
 -  ⚡ De São Paulo - SP 🇧🇷
 - 🌱 Atualmente, estou aprendendo Desenvolvimento Web(FullStack)
