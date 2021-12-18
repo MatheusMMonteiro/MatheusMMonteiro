@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/42879442/146641244-6f99f938-c8c7-427a-be00-63fb10327f47.png" width="500" align="center">
+</div>
 
 ### Olá! Bem vindos! 👋 😉
 
@@ -16,6 +19,3 @@ Meu nome é Matheus. Formado como Técnico em Informática no Senac Lapa Tito e 
 <a href="mailto:matheus.malmeida7@gmail.com">
   <img align="right" alt="E-mail" src="https://img.shields.io/badge/-Fale%20comigo!-brightgreen"/>
 </a>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/42879442/146641244-6f99f938-c8c7-427a-be00-63fb10327f47.png" width="600" align="center">
-</div>
