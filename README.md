@@ -8,7 +8,7 @@ Meu nome é Matheus. Formado como Técnico em Informática no Senac Lapa Tito e 
 
 -  ⚡ De São Paulo - SP 🇧🇷
 - 🌱 Atualmente, estou aprendendo Desenvolvimento Web(FullStack)
-- 💻 Habilidades: C#, Python, CSS3, SQL Server, MySQL, PHP, TypeScript, Java
+- 💻 Habilidades: C#, Python, CSS3, SQL Server, MySQL, TypeScript, Java
 - 💼 Ferramentas: Angular, Spring Boot, VSCode, Git, Bootstrap, MySQL Workbench
 - 💬 Pergunte-me mais ...
 
