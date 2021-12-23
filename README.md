@@ -1,16 +1,21 @@
+ 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/42879442/146641244-6f99f938-c8c7-427a-be00-63fb10327f47.png" width="300"  align="center">
+  <h1>Olá! Bem vindos! 👋 😉</h1>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmmonteiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmmonteiro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Olá! Bem vindos! 👋 😉
-
-Meu nome é Matheus. Formado como Técnico em Informática no Senac Lapa Tito e Bootcamp FullStack Java Júnior na Generation Brasil.
-
--  ⚡ De São Paulo - SP 🇧🇷
-- 🌱 Atualmente, estou aprendendo Desenvolvimento Web(FullStack)
-- 💻 Habilidades: C#, Python, CSS3, SQL Server, MySQL, TypeScript, Java
-- 💼 Ferramentas: Angular, Spring Boot, VSCode, Git, Bootstrap, MySQL Workbench
-- 💬 Pergunte-me mais ...
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="25" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" alt="Rafa-HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="25" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+</div>
 
 
 <a href="https://www.linkedin.com/in/matheus-monteiro-41b54a181/">
